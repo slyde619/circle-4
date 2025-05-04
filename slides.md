@@ -12,7 +12,7 @@ mdc: true
 <br/>
 
 ### Assignment Summary Presentation
-Team members - (Temitayo, Kafilat, ⁠Dorcas, Godwin, Kehinde, Maurice, Andre)
+Team members - (Temitayo, Kafilat, ⁠Dorcas, Godwin, Kehinde, Maurice, Andre, Simon)
 <br/>
 
 May 6th, 2025
