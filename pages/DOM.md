@@ -7,7 +7,7 @@ layout: two-cols
 <v-clicks>
 
 - **Document Object Model (DOM):** Browser's representation of HTML
-- **Common operations:** Selecting, creating and modifying elements
+- **Common operations:** Selecting, creating, modifying elements
 - **Project example:** Interactive dashboard with dynamic content
 
 </v-clicks>
