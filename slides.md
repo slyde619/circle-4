@@ -79,5 +79,5 @@ src: ./pages/challenges.md
 ---
 
 ---
-src: ./pages/thankyou.md
+src: ./pages/thank_you.md
 ---
