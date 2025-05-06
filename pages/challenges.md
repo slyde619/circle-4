@@ -57,7 +57,6 @@ class: text-left
 - **Next Steps**
   - Code reviews to share knowledge
   - Weekly Git/JS mini-workshops
-  - Create a team troubleshooting guide
 
 </v-clicks>
 
