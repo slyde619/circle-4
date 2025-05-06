@@ -1,6 +1,6 @@
 ---
 theme: default
-background: ./images/bg.jpg
+background: https://res.cloudinary.com/slydegee/image/upload/v1746557133/bg_ogigor.jpg
 class: text-left
 highlighter: shiki
 transition: slide-left
@@ -12,7 +12,7 @@ mdc: true
 <br/>
 
 ### Assignment Summary Presentation
-Team members - (Temitayo, Kafilat, ⁠Dorcas, Godwin, Kehinde, Maurice, Andre, Simon, Mesuur)
+Team members - (Temitayo, Kafilat, ⁠Dorcas, Godwin, Kehinde, Maurice, Andre, Simon, Mesuur, Emmanuel)
 <br/>
 
 May 7th, 2025
