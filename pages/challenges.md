@@ -3,12 +3,14 @@ layout: center
 class: text-left
 ---
 
-# Our Project Journey
+### Our Project Journey
 
 <div grid="~ cols-2 gap-4">
 <div>
 
-## What We Mastered
+#### What We Mastered
+
+<v-clicks>
 
 - **JavaScript Basics**
   - Variables, functions, and modern ES6 syntax
@@ -17,24 +19,29 @@ class: text-left
 
 - **Git Essentials**
   - Creating and switching branches:
+
     ```bash
     # Create and switch to a new branch
     git checkout -b feature-name
-    
+
     # Switch between existing branches
     git checkout main
     ```
+
   - Basic workflow:
     ```bash
     git add .
     git commit -m "Clear message about changes"
     git push origin branch-name
     ```
+</v-clicks>
 
 </div>
 <div>
 
-## Common Challenges & Solutions
+#### Common Challenges & Solutions
+
+<v-clicks>
 
 - **Merge Conflicts**
   - Always pull before starting work
@@ -42,6 +49,7 @@ class: text-left
   - Use clear commit messages
 
 - **JavaScript Hurdles**
+
   - Callback hell → Use async/await
   - DOM manipulation → Use querySelector
   - API data → Start with console.log to inspect
@@ -50,6 +58,8 @@ class: text-left
   - Code reviews to share knowledge
   - Weekly Git/JS mini-workshops
   - Create a team troubleshooting guide
+
+</v-clicks>
 
 </div>
 </div>
