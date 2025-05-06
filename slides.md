@@ -38,13 +38,46 @@ In this presentation, we'll walk through the JavaScript concepts we explored thi
 </v-clicks>
 
 ---
-
+src: ./pages/Functions.md
 ---
 
 ---
-
+src: ./pages/array.md
 ---
 
 ---
 src: ./pages/API.md
+---
+
+
+---
+src: ./pages/promises-async.md
+---
+
+---
+src: ./pages/DOM.md
+---
+
+---
+src: ./pages/Events.md
+---
+
+---
+src: ./pages/bundlers.md
+---
+
+---
+src: ./pages/Forms.md
+---
+
+---
+src: ./pages/import_exports.md
+---
+
+---
+src: ./pages/reflection.md
+---
+
+---
+src: ./pages/thankyou.md
 ---
