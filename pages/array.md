@@ -16,7 +16,11 @@ layout: two-cols
 
 ```js {all|1-2|4-6|8-10|all}
 // Creating arrays
-const tasks = ['Learn JavaScript', 'Build a project', 'Present work'];
+const tasks = [
+  { name: 'Learn JavaScript', isCompleted: true },
+  { name: 'Build a project', isCompleted: false },
+  { name: 'Present work', isCompleted: true }
+];
 
 // Accessing and looping
 tasks.forEach((task, index) => {
