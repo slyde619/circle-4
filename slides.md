@@ -75,7 +75,7 @@ src: ./pages/import_exports.md
 ---
 
 ---
-src: ./pages/reflection.md
+src: ./pages/challenges.md
 ---
 
 ---
